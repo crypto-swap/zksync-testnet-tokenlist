@@ -1,0 +1,23 @@
+{
+    "name": "CryptoSwap Testnet",
+    "logoURI": "https://raw.githubusercontent.com/crypto-swap/zksync-testnet-tokenlist/7409fbc3b6ec0c56611cc3d89baa6d40df3dc575/logos/0xfd2a81f7fc4fcc9dc26cb0641b190c1e0f37c43b/logo.png",
+    "keywords": ["zksync", "defi", "crypto swap"],
+    "tokens": [
+        {
+            "chainId": 280, 
+            "address": "0xfd2a81f7fc4fcc9dc26cb0641b190c1e0f37c43b", 
+            "decimals": 18, 
+            "name": "testnet CryptoSwap",
+            "symbol": "tCS", 
+            "logoURI": "https://raw.githubusercontent.com/crypto-swap/zksync-testnet-tokenlist/7409fbc3b6ec0c56611cc3d89baa6d40df3dc575/logos/0xfd2a81f7fc4fcc9dc26cb0641b190c1e0f37c43b/logo.png"
+        },
+        {
+            "chainId": 280, 
+            "address": "0x6e5056cbaa4082d4eee06906be7680a8524ed675", 
+            "decimals": 18, 
+            "name": "FRAX",
+            "symbol": "FRAX", 
+            "logoURI": "https://raw.githubusercontent.com/crypto-swap/zksync-testnet-tokenlist/7409fbc3b6ec0c56611cc3d89baa6d40df3dc575/logos/0x6e5056cbaa4082d4eee06906be7680a8524ed675/logo.png"
+        }
+    ]
+}
