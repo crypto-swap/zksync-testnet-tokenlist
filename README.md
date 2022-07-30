@@ -1,4 +1,5 @@
 HOW TO ADD YOUR LOGO
+
 Fast Application
 Submit pull request by adding your token logo 200X200 PNG.
 
