@@ -1,0 +1,1 @@
+# zksync-testnet-tokenlist
