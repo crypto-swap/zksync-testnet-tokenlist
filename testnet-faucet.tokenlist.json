@@ -18,6 +18,14 @@
             "name": "FRAX",
             "symbol": "FRAX", 
             "logoURI": "https://raw.githubusercontent.com/crypto-swap/zksync-testnet-tokenlist/7409fbc3b6ec0c56611cc3d89baa6d40df3dc575/logos/0x6e5056cbaa4082d4eee06906be7680a8524ed675/logo.png"
+        },
+        {
+            "chainId": 280, 
+            "address": "0x0e7896e6ce62a3481000def9b769d3563d0941f4", 
+            "decimals": 18, 
+            "name": "SyncSwap Testnet Token",
+            "symbol": "TEST", 
+            "logoURI": "https://raw.githubusercontent.com/crypto-swap/zksync-testnet-tokenlist/7409fbc3b6ec0c56611cc3d89baa6d40df3dc575/logos/0x0e7896e6ce62a3481000def9b769d3563d0941f4/logo.png"
         }
     ]
 }
